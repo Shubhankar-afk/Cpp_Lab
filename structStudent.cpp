@@ -7,7 +7,7 @@ struct Student{
 	int assignment2;
 	int internalMarks;
 }details;
-//total function
+//A simple sum function
 int total(int a, int b){
 	int c;
 	c=a+b;
